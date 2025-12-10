@@ -1,7 +1,7 @@
 **html report**
 https://huiting5.github.io/Airbnb-analysis-and-visualisation/html/Airbnb%20Data%20Visualization.html 
 
-
+https://huiting5.github.io/Airbnb-analysis-and-visualisation/html/Exploring%20Airbnb%20Of%20New%20York%20City.html
 
 **Airbnb Open Data** from Kaggle: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata 
 House Rules: A set of rules or expectations set by the host for the behavior of guests inside the house.
